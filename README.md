@@ -1,1 +1,1 @@
-# Scriptshort.AI
+// Dummy content for README.md
